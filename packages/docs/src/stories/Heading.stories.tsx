@@ -6,7 +6,7 @@ export default {
   component: Heading,
 
   args: {
-    children: 'Costum title',
+    children: 'Custum title',
   },
 } as Meta<HeadingProps>
 
