@@ -1,0 +1,2 @@
+import{A as t}from"./index.16458ed0.js";import"./index.c4a29c5f.js";import"./iframe.302c7882.js";import"./index.ae1324b7.js";import"./jsx-runtime.d2fa7c31.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/Ca-byte.png",alt:"Caroline Vieira"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.9e919476.js.map
